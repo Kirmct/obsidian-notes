@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "e3fc2cb5f025ca30",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e92d5bcfb0d2ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0880fbcad45eb6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitetura Limpa/Arquitetura de Software/03 - Principais Arquiteturas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - Principais Arquiteturas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96c9a5ca34b84ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2050c97b12a29f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e8af959be1aee7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0de955b3181f892",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "56e90fd83faec885",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "85b2084b91502d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "997c12f721cd3166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7257a930a6193902",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programing/POO/Object-Oriented Programming Polymorphism, Inheritance, Interfaces.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Object-Oriented Programming Polymorphism, Inheritance, Interfaces"
+            }
+          },
+          {
+            "id": "02680039754025db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programing/POO/Object-Oriented Programming Polymorphism, Inheritance, Interfaces.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Object-Oriented Programming Polymorphism, Inheritance, Interfaces"
+            }
+          },
+          {
+            "id": "dfaf5529f3da7df0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5031650dbf560c4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programing/POO/Object-Oriented Programming Polymorphism, Inheritance, Interfaces.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Object-Oriented Programming Polymorphism, Inheritance, Interfaces"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0880fbcad45eb6a3",
+  "lastOpenFiles": [
+    "Pasted image 20241203164239.png",
+    "Arquitetura Limpa/Arquitetura de Software/03 - Principais Arquiteturas.md",
+    "Pasted image 20241203164506.png",
+    "Pasted image 20241203164225.png",
+    "Pasted image 20241203164238.png",
+    "Pasted image 20241203164249.png",
+    "Pasted image 20241203163927.png",
+    "Pasted image 20241203163900.png",
+    "Pasted image 20241203163902.png",
+    "Arquitetura Limpa/Arquitetura de Software/02 - Design Principles.md",
+    "Arquitetura Limpa/Arquitetura de Software/01 - Arquitetura de Software.md",
+    "Arquitetura Limpa/Arquitetura de Software",
+    "English/B1/04 - My life is an open Book.md",
+    "Arquitetura Limpa",
+    "English/B1/03 - This is....md",
+    "English/B1/02 - Me, myself and I.md",
+    "English/B1/01 - Allow me to introduce Myself.md",
+    "English/B1/00 - Greeting.md",
+    "Programing/Designing.md",
+    "English/B1",
+    "English",
+    "Programing/POO/Object-Oriented Programming Polymorphism, Inheritance, Interfaces.md",
+    "Programing/C-Sharp/Fundamentals.md",
+    "Programing/SOLID/Dependency Inversion Principle.md",
+    "Programing/SOLID/0-SOLID.md",
+    "Programing/POO/Basics of Object-Oriented Programming.md",
+    "Programing/SOLID/Single Responsability Principle.md",
+    "Programing/C-Sharp/0 - C-Sharp.md",
+    "Programing/POO",
+    "0.md",
+    "0-SOLID.md",
+    "Programing/SOLID",
+    "Programing/Pasted image 20240812155844.png",
+    "Programing/Pasted image 20240812152759.png",
+    "Programing/C-Sharp",
+    "Programing/Teste.md",
+    "Programing"
+  ]
+}
