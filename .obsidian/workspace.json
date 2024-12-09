@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14e92d5bcfb0d2ec",
+        "id": "b8dfa50c6f3e03bd",
         "type": "tabs",
         "children": [
           {
-            "id": "0880fbcad45eb6a3",
+            "id": "75e3d02877c43c62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitetura Limpa/Arquitetura de Software/03 - Principais Arquiteturas.md",
+                "file": "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/01 - Pesquisa Binária e Notação Big O.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Principais Arquiteturas"
+              "title": "01 - Pesquisa Binária e Notação Big O"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 262.5
   },
   "right": {
     "id": "85b2084b91502d2e",
@@ -139,18 +139,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programing/POO/Object-Oriented Programming Polymorphism, Inheritance, Interfaces.md"
+                "file": "Arquitetura Limpa/Arquitetura de Software/04 - Clean Architecture.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Object-Oriented Programming Polymorphism, Inheritance, Interfaces"
+              "title": "Outline of 04 - Clean Architecture"
+            }
+          },
+          {
+            "id": "321bbde10ae4d628",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,24 +169,41 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0880fbcad45eb6a3",
+  "active": "75e3d02877c43c62",
   "lastOpenFiles": [
+    "Arquitetura Limpa/01 - Arquitetura de Software/07 - Testes de Unidade.md",
+    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/01 - Pesquisa Binária e Notação Big O.md",
+    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos",
+    "Algoritmos e Estrutura de Dados",
+    "Arquitetura Limpa/02 - SOLID",
+    "Arquitetura Limpa/01 - Arquitetura de Software/06 - Domain Driven Design.md",
+    "English/B1/09 - Deal.md",
+    "English/B1/08 - Call it a day!.md",
+    "English/B1/07 - Day by day.md",
+    "English/B1/06 - Time flies.md",
+    "English/B1/05 - Chit-chat.md",
+    "English/B1/04 - My life is an open Book.md",
+    "English/B1/05 - Small Talk.md",
+    "Arquitetura Limpa/01 - Arquitetura de Software/02 - Design Principles.md",
+    "Arquitetura Limpa/01 - Arquitetura de Software/01 - Arquitetura de Software.md",
+    "Arquitetura Limpa/01 - Arquitetura de Software/05 - Vertical Slice Architecture.md",
+    "Pasted image 20241205103233.png",
+    "Arquitetura Limpa/01 - Arquitetura de Software/04 - Clean Architecture.md",
+    "Arquitetura Limpa/01 - Arquitetura de Software/03 - Principais Arquiteturas.md",
+    "Pasted image 20241205093630.png",
+    "Pasted image 20241204100925.png",
     "Pasted image 20241203164239.png",
-    "Arquitetura Limpa/Arquitetura de Software/03 - Principais Arquiteturas.md",
     "Pasted image 20241203164506.png",
     "Pasted image 20241203164225.png",
     "Pasted image 20241203164238.png",
     "Pasted image 20241203164249.png",
     "Pasted image 20241203163927.png",
     "Pasted image 20241203163900.png",
-    "Pasted image 20241203163902.png",
-    "Arquitetura Limpa/Arquitetura de Software/02 - Design Principles.md",
-    "Arquitetura Limpa/Arquitetura de Software/01 - Arquitetura de Software.md",
-    "Arquitetura Limpa/Arquitetura de Software",
-    "English/B1/04 - My life is an open Book.md",
+    "Arquitetura Limpa/01 - Arquitetura de Software",
     "Arquitetura Limpa",
     "English/B1/03 - This is....md",
     "English/B1/02 - Me, myself and I.md",
@@ -191,15 +218,8 @@
     "Programing/SOLID/0-SOLID.md",
     "Programing/POO/Basics of Object-Oriented Programming.md",
     "Programing/SOLID/Single Responsability Principle.md",
-    "Programing/C-Sharp/0 - C-Sharp.md",
     "Programing/POO",
-    "0.md",
-    "0-SOLID.md",
     "Programing/SOLID",
-    "Programing/Pasted image 20240812155844.png",
-    "Programing/Pasted image 20240812152759.png",
-    "Programing/C-Sharp",
-    "Programing/Teste.md",
-    "Programing"
+    "Programing/C-Sharp"
   ]
 }
