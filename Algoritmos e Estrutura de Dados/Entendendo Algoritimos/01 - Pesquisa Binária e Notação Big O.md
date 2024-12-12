@@ -3,8 +3,8 @@ Imagine uma lista telefônica, nela buscamos pelo nome de Kirmct, como faríamos
 A busca binária funciona desta maneira, porém temos de ficar atentos a ordenação desta lista, caso ela esteja toda bagunçada este método não será eficaz.
 
 	A pesquisa binária se baseia na divisão pela metade do array/lista para que desta maneira a quantidade de execuções seja inferior a uma busca sequencial;
-	Enquanto a busca sequencial percorre todos os items da lista para achar o resultado, temos um tempo de excecução de On;
-	Já na busca binária, usando o método de dividir o espaço percorrido, no pior dos cenários temos uma execução de Log N;
+	Enquanto a busca sequencial percorre todos os items da lista para achar o resultado, temos um tempo de excecução de O(n);
+	Já na busca binária, usando o método de dividir o espaço percorrido, no pior dos cenários temos uma execução de O(log n);
 ```C
 #include <stdio.h>
 #define ARRAY_SIZE(arr) (sizeof(arr) / sizeof((arr)[0])) 
@@ -53,7 +53,7 @@ Big O não fornece o tempo em segundos, etc, ele permite que você compara o nú
 Informa o quão rapidamente ele cresce.
 **O Big-O sempre leva em consideração o pior caso!**, tendo em vista que este é sempre a garantia do máximo número de operações. 
 Temos também o caso médio, mas veremos mais a frente.
-Os tempos mais comuns são (mais rápido para mais lento):
+Os tempos mais comuns são (do mais rápido para mais lento):
 
 	O(log n) -> tempo logarítimico, ex: pesquisa binária.
 	O(n) -> tempo linear, ex: pesquisa simples.
