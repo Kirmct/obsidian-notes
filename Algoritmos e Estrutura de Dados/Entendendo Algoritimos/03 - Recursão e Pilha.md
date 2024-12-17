@@ -33,3 +33,21 @@ Quando a pilha está muito cheia, seu computador está salvando muitas informaç
 Para esta situação podemos:
 * Reescrever o código usando loops;
 * Utilizar tail recursion (recursão de calda).
+
+## Exemplo recursão
+```C
+#include <stdio.h>
+int fatorial(int n)
+{
+    if (n == 0)
+        return 1;
+    return n * fatorial(n - 1);
+}
+int main()
+{
+    int n = 5;
+    printf("%d", fatorial(n));
+    return 0;
+}
+```
+
