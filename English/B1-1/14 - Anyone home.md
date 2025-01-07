@@ -32,3 +32,8 @@ They have diferents meanings
 
 
 ## No one
+Word Any
+
+### Any
+We use any before nouns to refer to indefinite or unknown quantities
+Works exactly as some, but we use in negative and setences

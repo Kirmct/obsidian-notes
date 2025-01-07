@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66379b5fac57fd2a",
+        "id": "0d91e0032ec45cad",
         "type": "tabs",
         "children": [
           {
-            "id": "4df8eab40cd721c4",
+            "id": "ebfba101814ef80c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "English/B2-2/03 - Outstanding.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03 - Outstanding"
             }
           }
         ]
@@ -169,35 +173,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e8af959be1aee7",
+  "active": "ebfba101814ef80c",
   "lastOpenFiles": [
-    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/07 - Pesquisa em Largura, Grafos e Filas.md",
+    "English/B2-2/04 - Backhanded complement.md",
+    "English/B2-2/03 - Outstanding.md",
+    "English/B2-2/02 - My own flesh and blood.md",
+    "English/B2-2/01 - Long time.md",
+    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/06 - Pesquisa em Largura, Grafos e Filas.md",
+    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/05 - Tabela Hash.md",
+    "English/B1-1/19 - Why did it have to be me.md",
+    "English/B2-2",
+    "English/B1-1/18 - Milestones!.md",
+    "English/B1-1/17 - Off we go!.md",
+    "English/B1-1/16 - The call of nature.md",
+    "English/B1-1/15 - Quantity.md",
     "English/B1-1/14 - Anyone home.md",
-    "English/B1-1/Untitled 1.md",
     "English/B1-1/13 - Eat It!.md",
     "English/B1-1/12 - A breath of fresh air.md",
     "English/B1-1/11 - Infinitive or Gerund.md",
-    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/05 - Tabela Hash.md",
     "English/B1-1/10 - Pop In!.md",
     "English/B1-1/09 - Lets Get down to business.md",
-    "Arquitetura Limpa/03 - Domain Driven Design/02 - Linguagem Ubíqua.md",
-    "Arquitetura Limpa/03 - Domain Driven Design/01 - O que é DDD.md",
-    "Arquitetura Limpa/03 - Domain Driven Design",
     "English/B1-1/08 - Come on in!.md",
     "English/B1-1/07 - Newbie.md",
     "English/B1-1/06 - Play the game.md",
     "English/B1-1/05 - Blow a fuse!.md",
-    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/04 - QuickSort e Dividir para Conquistar.md",
-    "Arquitetura Limpa/02 - SOLID/03 - Liskov Substitution Principle.md",
-    "Arquitetura Limpa/02 - SOLID/05 - Dependency Inversion Principle.md",
-    "Arquitetura Limpa/02 - SOLID/04 - Interface Segregation Principle.md",
-    "Arquitetura Limpa/02 - SOLID/02 - Open-Closed Principle.md",
-    "Arquitetura Limpa/02 - SOLID/01 - Single Responsability Principle.md",
     "English/B1-1/04 - Back to square time.md",
-    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/02 - Ordenação Por Seleção.md",
-    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/01 - Pesquisa Binária e Notação Big O.md",
-    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/03 - Recursão e Pilha.md",
+    "English/B1-1/03 - Right Here!.md",
     "English/B1-1/02 - The Greatest!.md",
+    "English/B1-1/01 - Beyong Compare.md",
+    "English/B1-1/21 - Ours.md",
+    "Pasted image 20241227113546.png",
+    "English/B1-1/Untitled",
+    "Arquitetura Limpa/03 - Domain Driven Design",
     "Pasted image 20241215112003.png",
     "Pasted image 20241215110601.png",
     "Pasted image 20241215110527.png",
@@ -212,10 +219,7 @@
     "Pasted image 20241203164239.png",
     "Pasted image 20241203164506.png",
     "Pasted image 20241203164225.png",
-    "Pasted image 20241203164238.png",
     "Arquitetura Limpa/01 - Arquitetura de Software",
-    "Arquitetura Limpa",
-    "English/A1-1",
-    "English"
+    "Arquitetura Limpa"
   ]
 }
