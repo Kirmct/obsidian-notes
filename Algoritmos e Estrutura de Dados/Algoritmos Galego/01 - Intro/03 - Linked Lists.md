@@ -1,0 +1,2 @@
+Objeto diferente do array, não estão sequencialmente em memória como no array. Nas Linked Lists os elementos est!ao espalhados, onde cada elemento aponta para o próximo elemento.
+![[Pasted image 20250120143523.png]]
