@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/04 - Sliding Window.md",
+                "file": "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/06 - HashMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Sliding Window"
+              "title": "06 - HashMap"
             }
           }
         ]
@@ -175,8 +175,13 @@
   },
   "active": "7d3ed53890f657dc",
   "lastOpenFiles": [
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/05 - Exponential Search.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/06 - HashMap.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/03 - Binary Search.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/04 - Sliding Window.md",
+    "English/B1-1/09 - Back then!.md",
+    "English/B1-1/08 - Cool Stuff Inside.md",
+    "English/B1-1/07 - Behind the scenes.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/02 - Two Pointer.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/01 - Preview.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays",
@@ -193,7 +198,6 @@
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/04 - Queues - Filas.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/06 - Revisao.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/05 - Hashmap.md",
-    "English/B1-1/07 - Behind the scenes.md",
     "English/B1-1/06 - To date or not to date.md",
     "English/B1-1/05 - Eating out!.md",
     "English/B1-1/04 - Lifestyle.md",
@@ -205,12 +209,8 @@
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/02 - Arrays.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/01 - Big O Notation.md",
     "English/B1-1",
-    "English/A2-2/16 - Tomorrow's another day.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego",
-    "English/A2-2/17 - Leave before the lights come on.md",
-    "English/A2-2/18 - For a good cause.md",
-    "English/A2-2/15 - Nowaday.md",
     "English/A2-2",
     "Pasted image 20241227113546.png",
     "English/B1-1/Untitled",
