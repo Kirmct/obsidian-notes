@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9555257930fba5b6",
+        "id": "8e934e71c876e3ec",
         "type": "tabs",
         "children": [
           {
-            "id": "6bfef315515509f4",
+            "id": "97e0ad7609d66d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/04 - Mergear duas Linked Lists Ordenadas.md",
+                "file": "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/06 - Pesquisa em Largura, Grafos e Filas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Mergear duas Linked Lists Ordenadas"
+              "title": "06 - Pesquisa em Largura, Grafos e Filas"
             }
           }
         ]
@@ -173,13 +173,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bfef315515509f4",
+  "active": "97e0ad7609d66d0f",
   "lastOpenFiles": [
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/03 - Encontrar meio de uma Linked List.md",
+    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/04 - QuickSort e Dividir para Conquistar.md",
+    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/01 - Pesquisa Binária e Notação Big O.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/04 - Sorting/01 - BubbleSort.md",
+    "English/B1-1/Untitled.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/04 - Sorting",
+    "English/B1-1/17 - There is no comparison!.md",
+    "English/B1-1/16 - Perserverance.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/04 - Mergear duas Linked Lists Ordenadas.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/03 - Encontrar meio de uma Linked List.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/02 - Inverter uma Linked List.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/01 - Implementação.md",
-    "English/B1-1/16 - Perserverance.md",
     "English/B1-1/15 - At this very moment.md",
     "English/B1-1/14 - Right Here, Right now.md",
     "English/B1-1/13 - What if....md",
@@ -199,15 +205,10 @@
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/11 - B-Tree.md",
     "Pasted image 20250121164930.png",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/10 - Trie.md",
     "Pasted image 20250121164446.png",
     "Pasted image 20250121164434.png",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/09 - Grafos.md",
     "Pasted image 20250121164142.png",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/08 - Binary Trees.md",
     "Pasted image 20250121163911.png",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/07 - Stack (Pilha).md",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/04 - Queues - Filas.md",
     "Pasted image 20250120143523.png",
     "English/B1-1",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao",
@@ -219,7 +220,6 @@
     "Pasted image 20241215112003.png",
     "Pasted image 20241215110601.png",
     "Pasted image 20241215110527.png",
-    "English/A2-1",
-    "English/A1-2"
+    "English/A2-1"
   ]
 }
