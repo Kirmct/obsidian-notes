@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/B1-1/10 - Back in the day!.md",
+                "file": "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/04 - Mergear duas Linked Lists Ordenadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Back in the day!"
+              "title": "04 - Mergear duas Linked Lists Ordenadas"
             }
           }
         ]
@@ -175,8 +175,19 @@
   },
   "active": "6bfef315515509f4",
   "lastOpenFiles": [
-    "English/B1-1/09 - Back then!.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/03 - Encontrar meio de uma Linked List.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/04 - Mergear duas Linked Lists Ordenadas.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/02 - Inverter uma Linked List.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/01 - Implementação.md",
+    "English/B1-1/16 - Perserverance.md",
+    "English/B1-1/15 - At this very moment.md",
+    "English/B1-1/14 - Right Here, Right now.md",
+    "English/B1-1/13 - What if....md",
+    "English/B1-1/12 - Regret is Killing me.md",
+    "English/B1-1/11 - Boss Around.md",
     "English/B1-1/10 - Back in the day!.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists",
+    "English/B1-1/09 - Back then!.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/06 - HashMap.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/05 - Exponential Search.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/03 - Binary Search.md",
@@ -197,17 +208,7 @@
     "Pasted image 20250121163911.png",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/07 - Stack (Pilha).md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/04 - Queues - Filas.md",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/06 - Revisao.md",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/05 - Hashmap.md",
-    "English/B1-1/06 - To date or not to date.md",
-    "English/B1-1/05 - Eating out!.md",
-    "English/B1-1/04 - Lifestyle.md",
-    "English/B1-1/03 - Personal and Professional goals.md",
-    "English/B1-1/01 - Travelling.md",
-    "English/B1-1/02 - Where do you wish to go.md",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/03 - Linked Lists.md",
     "Pasted image 20250120143523.png",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/02 - Arrays.md",
     "English/B1-1",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego",
@@ -219,7 +220,6 @@
     "Pasted image 20241215110601.png",
     "Pasted image 20241215110527.png",
     "English/A2-1",
-    "English/A1-2",
-    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos"
+    "English/A1-2"
   ]
 }
