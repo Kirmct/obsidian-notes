@@ -13,10 +13,10 @@
 	Repositórios: Responsáveis pela persistência e recuperação das entidades de negócio.
 
 ## Modelagem
-	Estratégica (Visão Macro):
+	- Estratégica (Visão Macro):
 		Contexto Delimitado: Define limites claros para subdomínios;
 		Mapa de Contexto: Visualiza a interação entre os contextos delimitados;
-	Tática (Visão Detalhada):
+	- Tática (Visão Detalhada):
 		Ferramentas específicas para criar e organizar o modelo, como agregados e objetos de valor.
 
 ## Benefícios
