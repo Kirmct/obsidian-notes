@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8e934e71c876e3ec",
+        "id": "b2959d6cdf930190",
         "type": "tabs",
         "children": [
           {
-            "id": "97e0ad7609d66d0f",
+            "id": "7c16728d0583a968",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microservices/01 - Introduction.md",
+                "file": "Docker and Kubernets/02 - Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Introduction"
+              "title": "02 - Kubernetes"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,10 +174,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97e0ad7609d66d0f",
+  "active": "7c16728d0583a968",
   "lastOpenFiles": [
+    "Docker and Kubernets/01 - Docker.md",
+    "Docker and Kubernets/02 - Kubernetes.md",
+    "Pasted image 20250131153702.png",
+    "Pasted image 20250131153615.png",
+    "Pasted image 20250131153121.png",
+    "Pasted image 20250130153736.png",
+    "Docker and Kubernets",
+    "Microservices/02 - Microservices.md",
+    "Pasted image 20250130090232.png",
+    "Microservices/01 - Monolith.md",
     "Arquitetura Limpa/03 - Domain Driven Design/05 - Domínio e Subdomínio.md",
-    "Microservices/01 - Introduction.md",
     "Microservices",
     "Arquitetura Limpa/03 - Domain Driven Design/04 - Modelagem Tática.md",
     "Arquitetura Limpa/03 - Domain Driven Design/03 - Modelagem Estratégica.md",
@@ -199,10 +209,6 @@
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/03 - Encontrar meio de uma Linked List.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/02 - Inverter uma Linked List.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/01 - Implementação.md",
-    "English/B1-1/15 - At this very moment.md",
-    "English/B1-1/14 - Right Here, Right now.md",
-    "English/B1-1/13 - What if....md",
-    "English/B1-1/12 - Regret is Killing me.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays",
     "Pasted image 20250121164930.png",
@@ -210,16 +216,10 @@
     "Pasted image 20250121164434.png",
     "Pasted image 20250121164142.png",
     "Pasted image 20250121163911.png",
-    "Pasted image 20250120143523.png",
     "English/B1-1",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego",
     "English/A2-2",
-    "Pasted image 20241227113546.png",
-    "English/B1-1/Untitled",
-    "Arquitetura Limpa/03 - Domain Driven Design",
-    "Pasted image 20241215112003.png",
-    "Pasted image 20241215110601.png",
-    "Pasted image 20241215110527.png"
+    "English/B1-1/Untitled"
   ]
 }
