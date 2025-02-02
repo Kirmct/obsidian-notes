@@ -53,4 +53,5 @@ kubectl get services
 
 ```C#
 kubectl delete service <service name>
+kubectl delete all --all
 ```
