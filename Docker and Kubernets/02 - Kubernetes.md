@@ -55,3 +55,38 @@ kubectl get services
 kubectl delete service <service name>
 kubectl delete all --all
 ```
+
+
+Forcing kubernets to restart our deployment/service, etc
+Usefull when we change our cloud image and want to download again
+```C#
+kuber rollout restart <type> <name>
+kubectl rollout restart deployment platforms-deploy
+```
+
+
+Kubernets works using namespaces, we can see our namespace using
+```C#
+kubectl get namespaces
+
+kubectl get pods --namespace=<namespace name>
+kubectl get pods --namespace=ingress-nginx
+```
+
+
+Storage Class
+```C#
+kubectl get storageclass
+```
+
+PVC -> Persistent Volume Claim
+```C#
+kubectl get pvc
+```
+
+Creating a secret key using kubernetes
+This one is for our database
+````C#
+kubectl create secret generic <key name> --from-literal=<key defined>="<value>"
+kubectl create secret generic mssql --from-literal=SA_PASSWORD="pa55w0rd!"
+```

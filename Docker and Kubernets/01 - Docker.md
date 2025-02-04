@@ -1,4 +1,4 @@
-# Quicky Review
+do# Quicky Review
 ## What is Docker
 Is a **containerization** platform, meaning that it enables you to package your applications into images and run them as "**containers**" on any platform that can run Docker.
 Solve the problem that a project runs in one machine and not run in another, with Docker is possible to say that will work as expected independent of the enviroment.
