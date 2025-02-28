@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2959d6cdf930190",
+        "id": "36530f56e2f96056",
         "type": "tabs",
         "children": [
           {
-            "id": "7c16728d0583a968",
+            "id": "497d9626f1169d38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "02 - Kubernetes"
             }
+          },
+          {
+            "id": "ad3ee6f0d11c4851",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,10 +187,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1ca2fbd74d7e341",
+  "active": "ad3ee6f0d11c4851",
   "lastOpenFiles": [
-    "Docker and Kubernets/01 - Docker.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/01 - Big O Notation.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/02 - Arrays.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao/03 - Linked Lists.md",
+    "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays/01 - Preview.md",
+    "English/B1-2/03 - Politeness.md",
+    "English/B1-2/02 - Never enough.md",
     "Docker and Kubernets/02 - Kubernetes.md",
+    "English/B1-2/01 - The art of deduction.md",
+    "English/B1-2",
+    "Docker and Kubernets/01 - Docker.md",
     "English/B1-1/18 - Get it done.md",
     "English/B1-1/21 - You may be right.md",
     "English/B1-1/20 - A note to my future self.md",
@@ -202,14 +223,7 @@
     "Arquitetura Limpa/02 - SOLID/03 - Liskov Substitution Principle.md",
     "Arquitetura Limpa/02 - SOLID/02 - Open-Closed Principle.md",
     "Arquitetura Limpa/02 - SOLID/01 - Single Responsability Principle.md",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/04 - Sorting/01 - BubbleSort.md",
-    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/06 - Pesquisa em Largura, Grafos e Filas.md",
-    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/04 - QuickSort e Dividir para Conquistar.md",
-    "Algoritmos e Estrutura de Dados/Entendendo Algoritimos/01 - Pesquisa Binária e Notação Big O.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/04 - Sorting",
-    "English/B1-1/17 - There is no comparison!.md",
-    "English/B1-1/16 - Perserverance.md",
-    "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists/04 - Mergear duas Linked Lists Ordenadas.md",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/03 - Linked Lists",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/02 - Arrays",
     "Pasted image 20250121164930.png",
@@ -220,7 +234,6 @@
     "English/B1-1",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego/01 - Introducao",
     "Algoritmos e Estrutura de Dados/Algoritmos Galego",
-    "English/A2-2",
-    "English/B1-1/Untitled"
+    "English/A2-2"
   ]
 }

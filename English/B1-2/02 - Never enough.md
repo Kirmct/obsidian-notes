@@ -1,0 +1,13 @@
+Intensifiers. Make a word stroger or weaker
+- Very
+- really
+- super
+- expremely
+- So
+- Absolutely
+- Completely
+- Totally
+- At all
+- Enough
+- Quite
+- Too
